@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.05" height="21.05" viewBox="0 0 21.05 21.05">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #303030;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.7px;
+      }
+    </style>
+  </defs>
+  <title>save-cortado</title>
+  <g>
+    <path class="a" d="M16.9,20.48l-6-8.79a.5.5,0,0,0-.83,0l-6,8.79a.5.5,0,0,1-.91-.27V.84a.5.5,0,0,1,.5-.49H17.31a.5.5,0,0,1,.5.49V20.21A.5.5,0,0,1,16.9,20.48Z"/>
+    <g>
+      <line class="a" x1="5.69" y1="2.65" x2="10.72" y2="2.65"/>
+      <line class="a" x1="12.07" y1="2.65" x2="13.12" y2="2.65"/>
+    </g>
+    <path class="a" d="M16.9,20.48l-6-8.79a.5.5,0,0,0-.83,0l-6,8.79a.5.5,0,0,1-.91-.27V.84a.5.5,0,0,1,.5-.49H17.31a.5.5,0,0,1,.5.49V20.21A.5.5,0,0,1,16.9,20.48Z"/>
+  </g>
+</svg>
